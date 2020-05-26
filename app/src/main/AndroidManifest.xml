@@ -18,7 +18,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCrVLco1jo2RRAgtlHZv_Fqf86Z4WbBpPc"/>
+            android:value="##############################"/>
 
         <activity android:name=".ViewSession"></activity>
         <activity android:name=".SessionInfo" />
