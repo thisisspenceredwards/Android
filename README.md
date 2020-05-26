@@ -1,4 +1,8 @@
 ### Fitness App  
+
+https://github.com/thisisspenceredwards/Android/blob/master/Screen%20Shot%202020-05-26%20at%2012.57.07%20PM.png
+
+
 #### Milestone 1  
 
 Leonel DeAnda, Spencer Edwards, Kristina Leo  
