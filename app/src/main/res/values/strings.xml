@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">design</string>
+    <string name="calories">Calories</string>
+    <string name="steps">Steps</string>
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+    <string name="months">Months</string>
+    <string name="now">Now</string>
+    <string name="oneDay">1 Day</string>
+    <string name="sevenDays">7 Days</string>
+    <string name="thirtyDays">30 Days</string>
+    <string name="threehundredDays">365 Days</string>
+    <string name="server_client_id">287895196544-80lhbtuc7r769sf01tcl7lj0fprrfevi.apps.googleusercontent.com</string>
+    <string-array name="Graph_by_day">
+        <item>1 </item>
+        <item>7</item>
+        <item>30</item>
+        <item>365</item>
+    </string-array>
+    <string name="google_maps_key">AIzaSyCrVLco1jo2RRAgtlHZv_Fqf86Z4WbBpPc</string>
+    <string-array name="Type_of_Activity">
+        <item>Walking </item>
+        <item>Jogging </item>
+        <item>Running </item>
+        <item>Biking </item>
+        <item>Hiking </item>
+        <item>Sports </item>
+    </string-array>
+    <string name="google_places_key">AIzaSyBMETukHUGOqVWgXQ3Y58L3sHpPH1OoE04</string>
+    <string name="rename">StayFit</string>
+</resources>

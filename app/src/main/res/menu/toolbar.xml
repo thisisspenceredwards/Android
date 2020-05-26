@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    android:id = "@+id/menu"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+    android:title ="Graph Settings"
+    android:id="@+id/GRAPHSETTINGS"
+    app:showAsAction="ifRoom"
+    android:visible = "false"
+        />
+
+    <group>
+    <item
+        android:id="@+id/ACTIVITYLOG"
+        android:title="Activity Log"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/FINDACTIVITY"
+        android:title="Find an Activity"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/SETTINGS"
+        android:title="Settings"
+        app:showAsAction="never"
+        />
+    </group>
+</menu>
+
