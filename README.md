@@ -1,6 +1,7 @@
 ### Fitness App  
 
 https://github.com/thisisspenceredwards/Android/blob/master/Screen%20Shot%202020-05-26%20at%2012.57.07%20PM.png
+https://github.com/thisisspenceredwards/Android/blob/master/Screen%20Shot%202020-05-26%20at%2012.57.21%20PM.png
 
 
 #### Milestone 1  
